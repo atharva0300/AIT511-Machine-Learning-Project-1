@@ -1,5 +1,5 @@
 # AIT511-Machine-Learning-Project-1
-Repository for ML Project ( competition on Kaggle ) 
+Repository for ML Project ( competition on Kaggle )
 Competition Website: https://www.kaggle.com/competitions/ait-511-course-project-1-obesity-risk/overview
 
 # Overview 
